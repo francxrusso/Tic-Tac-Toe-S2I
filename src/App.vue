@@ -1,6 +1,6 @@
 <template>
-  <img src="/src/assets/logo cerchio scuro.svg" alt="logomio" class="logo" />
-  <img src="/src/assets/nuvoletteintere.svg" alt="nuvolebg" />
+  <img src="/src/assets/img/logo cerchio scuro.svg" alt="logomio" class="logo" />
+  <img src="/src/assets/img/nuvoletteintere.svg" alt="nuvolebg" />
   <h1>Tic Tac Toe</h1>
   <p>
     Play tic tac toe with a friend, when the game is over press ↺ to reset the
