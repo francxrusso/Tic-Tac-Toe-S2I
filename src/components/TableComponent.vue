@@ -38,37 +38,6 @@ export default {
       });
       console.log(gamePlayer1, gamePlayer2);
 
-      // If player 1 win
-      // let numberRowPlayer1 = "";
-      // let numberFilePlayer1 = "";
-
-      // gamePlayer1.forEach((element) => {
-      //   numberRowPlayer1 += element.row;
-      //   numberFilePlayer1 += element.file;
-      // });
-
-      // if (
-      //   this.filterRowFiles(numberRowPlayer1) ||
-      //   this.filterRowFiles(numberFilePlayer1)
-      // ) {
-      //   console.log("Player 1 win");
-      // }
-
-      // // If player 2 win
-      // let numberRowPlayer2 = "";
-      // let numberFilePlayer2 = "";
-
-      // gamePlayer2.forEach((element) => {
-      //   numberRowPlayer2 += element.row;
-      //   numberFilePlayer2 += element.file;
-      // });
-
-      // if (
-      //   this.filterRowFiles(numberRowPlayer2) ||
-      //   this.filterRowFiles(numberFilePlayer2)
-      // ) {
-      //   console.log("Player 2 win");
-      // }
     },
   },
   methods: {
@@ -134,4 +103,5 @@ table {
 .circle {
   font-size: 70px;
   color: red;
-}</style>
+}
+</style>
