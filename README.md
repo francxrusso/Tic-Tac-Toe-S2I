@@ -4,7 +4,8 @@ Project for Start2Impact University Front-end development master. The goal was t
 
 <a href="https://francxrusso.github.io/tic-tac-toe-s2i/">Link demo</a>
 
-![Immagine 2023-12-05 165325](https://github.com/francxrusso/Tic-Tac-Toe-S2I/assets/98696732/bdbc465d-c084-43ff-a35b-70bd8e0ad675)
+![Immagine 2023-12-11 094600](https://github.com/francxrusso/tic-tac-toe-s2i/assets/98696732/127cdf48-f39c-4fd5-80a0-8a233185e6ad)
+
 
 # Built with
 
